@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+.WATCHA {
+  font-size: 30px;
+}
+
 * {
     font-family: 'Merriweather Sans', sans-serif;
     color: #3f3f3f;
@@ -151,6 +155,7 @@ h6, .h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-size: 20px;
 }
 
 abbr[title],
